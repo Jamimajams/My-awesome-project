@@ -1,0 +1,76 @@
+body {
+  background-image: url(https://i.pinimg.com/736x/70/c6/27/70c627cf77e67624bccabd954efed99c.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.container {
+  display: block;
+  max-width: 100%;
+  margin: 40px;
+  padding: 10px;
+  background-color: rgba(246, 234, 247, 0.7);
+  border-style: ridge;
+  border-color: white;
+  border-radius: 20px;
+}
+h1 {
+  position: relative;
+  font-family: "Rubik Vinyl", cursive;
+}
+h2 {
+  text-align: center;
+  margin: 30px;
+  padding: 20px;
+}
+form {
+  display: block;
+  border: 2px black;
+}
+button {
+  background-color: rgb(0, 112, 140);
+}
+i {
+  color: rgb(114, 76, 147);
+  font-size: 60px;
+}
+.degrees {
+  font-weight: bold;
+}
+.number {
+  font-size: 50px;
+}
+.today {
+  font-size: 100px;
+  text-align: right;
+}
+.emojis {
+  font-size: 40px;
+}
+.days {
+  text-align: center;
+}
+footer {
+  text-align: center;
+}
+.coder {
+  text-decoration: none;
+}
+
+#form-control {
+  padding: 10px 20px;
+}
+
+#search-button {
+  margin-left: 5px;
+  border-radius: 10px;
+  background-color: #9f8ceb;
+}
+#current-button {
+  margin-left: 5px;
+  border-radius: 10px;
+  background-color: aliceblue;
+}
+
+p {
+  color: rgb(92, 92, 92);
+}
